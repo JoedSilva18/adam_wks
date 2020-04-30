@@ -7,9 +7,9 @@
     "Linha": "Premium",
     "Voltagem": "127V",
     "Modelo": "Mini",
-    "Tipo de ventilador": "De mesa",
+    "TipoDeVentilador": "De mesa",
     "Diametro": "20 cm",
-    "Cor da estrutura": "Branco",
-    "Cor das pás": "Azul"
+    "CorDaEstrutura": "Branco",
+    "CorDasPas": "Azul"
   }
 }
