@@ -1,0 +1,44 @@
+Características
+Marca
+Aquário
+Dual SIM
+Sim
+IMEI Sim
+Radio Sim
+Capacidade da bateria 800 mAh
+Descrição
+O Celular de Mesa 3G Dual Chip da Aquário é compatível com todas as operadoras, você só precisa inserir o simcard de sua preferência. O equipamento já está preparado para operar em 5 frequências diferentes: 850/900/1800/1900 e 2100 MHz. Em áreas urbanas ele proporciona economia e praticidade nas ligações de celular para celular e em áreas rurais, em conjunto com uma antena externa, possibilita comunicação mesmo em lugares afastados.
+
+Toda tecnologia e aplicações de um celular em um aparelho fixo. Envia e recebe mensagens, funciona como modem 2G/3G, opera com discagem rápida, indicador de mensagens recebidas e viva-voz. Possui funções avançadas como chamada em espera, chamada em conferência, registro de ligação, agenda, bloqueio de chamada de longa distância e de operadora, lista negra, alarme e calendário.
+
+// Acesso a Internet 3G:
+
+A nova linha de celulares de mesa 3G da Aquário também funciona como um modem 3G de alto desempenho, basta conecta-lo a um computador através do cabo USB que já vem incluso na embalagem e navegar a vontade na internet.
+
+// Rádio FM:
+
+O celular de mesa CA-40S 3G conta com sinal de Rádio FM para você ouvir suas músicas preferidas, notícias e programas regionais.
+
+// Autonomia da Bateria:
+
+O parelho acompanha bateria, que permite a comunicação mesmo quando houver queda de energia, possibilitando um tempo de conversação de até 3,5 horas e 120 horas em repouso.
+
+// Adaptador Dual Chip
+
+Junto com o Celular de Mesa 3G Dual Chip, é enviado um adaptador de SimCard para você não se preocupar em ter que comprar um chip específico. Você pode até usar o mesmo chip que já utiliza no seu smartphone.
+
+// Ficha Técnica:
+
+Código do Produto: CA-42S 3G
+Frequência: 850, 900 ,1800, 1900 e 2100MHz
+Ganho da Antena Interna: 3dBi
+Impedância: 50 onhz
+Instalação: Interna
+Alimentação: DC 5 V 1000 mA
+Conector: Tnc Fêmea
+Bateria: Tipo: 3,7v Íon Lítio/ Capacidade: 800mAh/ Tempo de conversação: 5 horas/ Tempo de repouso 120h
+Adaptador Ac/Dc: Entrada: 110-240 VAC 50/60 Hz 0,5 A. Saída: 5 Vdc 1000 mA max
+Peso do Produto: 0,845 Kg
+Dimensões: 219x177x85mm
+Homologação da Anatel: 03939-18-02250
+Embalagem Contém: Celular de Mesa 3G P, fonte de alimentação, bateria, antena interna, cabo Usb, adaptador simcard e guia de instalação.

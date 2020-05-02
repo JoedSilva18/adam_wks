@@ -1,0 +1,142 @@
+Características
+Marca
+Samsung
+Linha
+Galaxy
+Modelo
+J2 Core Duos
+Dual SIM
+Sim
+Memória interna
+16 GB
+Memória RAM
+1 GB
+IMEI Sim
+ESIM Não
+Nome do sistema operacional Android
+Versão do sistema operacional 8.1
+Edição do sistema operacional Go Edition
+Ano de lançamento 2018
+Peso 154 g
+Altura 143.4 mm
+Largura 72.1 mm
+Profundidade 8.9 mm
+Ver mais características
+Descrição
+Smartphone samsung galaxy j2 core, tela de 5, câmera frontal de 5mp, câmera traseira 8mp com flash led, 16gb, dual chip, android go 8.1
+
+dimensões do aparelho (mm) 143.4 x 72.1 x 8.9
+
+peso do aparelho (g) 154
+
+formato do aparelho barra
+
+interface com o usuário touch screen
+
+sistema operacional + versão android go 8.1
+
+plataforma 32 bits
+
+loja de aplicativos play store / galaxy apps
+
+número de núcleos quadcore
+
+velocidade do processador 1.4ghz
+
+2g gsm (gprs/edge) 850, 900, 1800, 1900 mhz
+
+3g bandas b1(2100),b2(1900),b4(aws),b5(850),b8(900)
+
+3g downlink / uplink hspa+ 42.2 / 5.76 mbps
+
+4g bandas b1(2100),b2(1900),b3(1800),b4(aws),b5(850),b7(2600),b8(900),b12(700),b17(700),b28(700)
+
+4g categoria cat 4 dl
+
+bluetooth versão 4.2
+
+browser google chrome, samsung
+
+conexão wifi 802.11 b/g/n 2.4ghz
+
+roteador wifi sim
+
+2 chips sim
+
+tipos de email suportados pop3, imap4
+
+visualização de arquivos office sim
+
+edição de arquivos office disponível para download
+
+tipos de sensores acelerômetro, proximidade
+
+tecnologia display tft
+
+tamanho do display 5.0
+
+número de pixels 960x540 (qhd)
+
+quantidade de cores 16 m
+
+resolução 8mp f2.2
+
+zoom 4x digital
+
+estabilizador óptico de imagem (ois)
+
+foco automático (af) sim
+
+modo de foto automático
+
+timer desativado, 2 segundos, 5 segundos, 10 segundos
+
+efeitos de foto escala de cinza, sépia, negativo, realce verm. e amarelo, realce verde, realce azul
+
+flash flash led
+
+resolução 5mp f2.2
+
+reprodução de música sim
+
+formatos suportados mp3,amrnb,amrwb,aac,aac+,eaac+,ac3,vorbis,flac,opus
+
+rádio fm sim
+
+gravação de rádio fm não
+
+mp3 sim
+
+gps sim
+
+agps sim
+
+tv analógica não
+
+tv digital não
+
+conexão com tv via cabo não
+
+memória interna total compartilhada 16gb
+
+suporte a cartão de memória sim
+
+tipo cartão de memória suportado micro sd
+
+capacidade do cartão de memória até 256gb
+
+memória ram 1gb
+
+capacidade da bateria (mah) 2600 mah
+
+tipo de bateria ions de lítio
+
+voltagem bivolt
+
+carregamento rápido não
+
+carregamento sem fio não
+
+kit embalagem aparelho, bateria, carregador, cabo usb, fone de ouvido e manual do usuário
+
+certificação da Anatel 048981800953
