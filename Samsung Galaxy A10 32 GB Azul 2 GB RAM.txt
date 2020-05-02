@@ -1,0 +1,85 @@
+Descrição
+Inteligente e preditivo
+O sistema operacional avançado Android 9.0 Pie aprende seus hábitos para se adaptar à sua rotina e obter a máxima eficiência de seu equipamento. Seu dispositivo terá a autonomia necessária para reduzir o consumo de energia, ajustando automaticamente o brilho e gerenciando a bateria de maneira inteligente, para que você possa priorizar o uso de seus aplicativos usuais.
+
+Mais para ver
+Com sua tela grande TFT de 6.2", desfrute de cores intensas e maior clareza em todo o seu conteúdo.
+
+O espaço que você precisa
+Com sua memória interna de 32 GB, baixe seus aplicativos favoritos e salve todas as fotos e vídeos que você quiser!
+
+Bateria para o dia todo
+Sua poderosa bateria 3400 mAh se adapta ao seu ritmo de vida e garante energia por um dia inteiro com uma única carga.
+
+Momentos únicos, capturas reais
+Capture seus melhores momentos e reviva-os sempre que quiser com a câmera traseira de 13 Mpx.
+
+Além disso, o dispositivo tem uma câmera frontal de 5 Mpx para que possa tirar-se selfies divertidas ou fazer videochamadas.
+
+Reconhecimento facial para maior segurança
+Sua tecnologia precisa de reconhecimento facial lhe garantirá acesso rápido e seguro ao equipe. Aproxime o dispositivo do seu rosto para desbloqueá-lo instantaneamente e comece a desfrutar de uma experiência incomparável.
+
+
+
+Características principais
+Marca	Samsung
+Linha	Galaxy A
+Modelo	A10
+É Dual SIM	Não
+Cor	Azul
+Memória interna	32 GB
+Memória RAM	2 GB
+Outras características
+Com eSIMNão
+Nome do sistema operacionalAndroid
+Versão do sistema operacional9.0 Pie
+Camada do sistema operacional do fabricanteOne UI
+Ano de lançamento2019
+Peso168 g
+Altura x Largura x Profundidade155.6 mm x 75.6 mm x 7.9 mm
+Com tela tátilSim
+Tamanho da tela6.2 "
+Resolução da tela720 px x 1520 px
+Pixels por polegada271 ppi
+Tecnologia de telaTFT
+Com câmeraSim
+Número de câmeras traseiras1
+Resolução da câmera traseira principal13 Mpx
+Resolução de vídeo da câmera traseira1920 px x 1080 px
+Abertura do diafragma da câmera traseiraf 1.9
+Número de câmeras frontais1
+Resolução da câmera frontal principal5 Mpx
+Resolução de vídeo da câmera frontal1920 px x 1080 px
+Abertura do diafragma da câmera frontalf 2.0
+Com flash na câmara frontalNão
+Com função de câmara lentaNão
+Rede4G/LTE
+Quantidade de ranhuras para cartão SIM1
+Tamanhos de cartão SIM compatíveisNano-SIM
+Tipos de cartão de memóriamicroSD
+Capacidade máxima do cartão de memória512 GB
+Modelo do processadorExynos 7884
+Modelo de CPU2x1.6 GHz Cortex-A73/6x1.35 GHz Cortex-A53
+Quantidade de núcleos do processador8
+Velocidade do processador1.6 GHz
+Modelo de GPUMali-G71 MP2
+Com teclado QWERTY físicoNão
+Com conector USBSim
+Com Wi-FiSim
+Com GPSSim
+Com BluetoothSim
+Com mini HDMINão
+Com radioSim
+Com sintonizador de TVNão
+Com leitor de impressão digitalNão
+Com reconhecimento facialSim
+Com acelerômetroSim
+Com sensor de proximidadeSim
+Com giroscópioNão
+É resistente a salpicosNão
+É resistente à águaNão
+É à prova d'águaNão
+Tipo de bateriaÍon de lítio
+Capacidade da bateria3400 mAh
+Com bateria removívelNão
+Autonomia conversação21 h
