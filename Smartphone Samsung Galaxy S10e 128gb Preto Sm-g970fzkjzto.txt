@@ -1,0 +1,126 @@
+Descrição
+Smartphone Samsung Galaxy S10E 128Gb Preto Sm-G970Fzkjzto
+
+Características:
+- marca: samsung
+- modelo: sm-g970f/1dl
+
+Especificações:
+Proteção:
+- proteção ip: ip68
+
+Formato físico:
+- formato do aparelho: barra
+- interface com o usuário: touch screen
+
+Sistema operacional:
+- sistema operacional + versão android 9.0
+- plataforma: 64 bits
+- loja de aplicativos: play store / galaxy apps
+
+Processador:
+- número de núcleos: octa-core
+- velocidade do processador: 2.7ghz (max. 2.7 ghz + 1.9 ghz)
+
+Bandas:
+- 2g gsm (gprs/edge): gsm 850mhz, gsm 900mhz, gsm 1800 mhz, gsm 1900 mhz
+- 3g bandas: b1(2100), b2(1900), b3(1800), b5(850), b8(900)
+- 3g downlink / uplink: hspa+ 42.2 / 5.76 mbps
+- 4g bandas: b1(2100), b2(1900), b3(1800), b5(850), b7(2600), b8(900), b28(700), b38(2600)
+- 4g categoria: cat 19
+
+Conectividade:
+- bluetooth versão 5.0
+- browser: google chrome, samsung
+- conexão wi-fi: 802.11 a/b/g/n/ac/ax 2.4g+5ghz, he80, mimo, 1024-qam
+- roteador wi-fi
+- nfc
+- mst (emulador de tarja magnética)
+- samsung pay
+- 2 chips (slot compartilhado com cartão micro sd)
+- tipo de sim: nano sim (4ff)
+- usb versão: 3.1
+- usb conector: tipo c
+
+E-mail e escritório:
+- e-mail: google mail, samsung e-mail
+- push e-mail: microsoft, direct push e-mail for exchange
+- tipos de e-mail suportados: pop3, imap4, smtp, ssl, tls, eas
+- visualização de arquivos office
+- edição de arquivos office: disponível para download
+
+Sensores:
+- tipos de sensores: acelerômetro, barômetro, giroscópio, geomagnético, hall, proximidade, luz rgb, sensor hr
+- leitor biométrico (impressão digital)
+
+Display:
+- tecnologia: dual edge samoled
+- tamanho do display: 5.8
+- número de pixels: 2280 x 1080 (fhd+)
+- quantidade de cores: 16 milhões
+- vidro reforçado
+
+Tela medida diagonalmente como um retângulo, sem contar a área ocupada pela câmera e os cantos arredondados.
+
+Câmera traseira:
+- resolução: câmera dupla traseira de 12mp ois (f1.5/f2.4) + ultra wide 16mp (f2.2)
+- abertura: câmera tele-objetiva abertura dupla f1.5/f2.4, ultra wide (f2.2)
+- zoom: zoom digital até 8x
+- estabilizador óptico de imagem (ois)
+- sensor phase detection (pdaf)
+- foco automático (af)
+- flash led
+Câmera frontal:
+- resolução: dupla frontal de 10mp auto focus
+- abertura: f1.9
+- flash frontal: na tela
+
+Vídeo:
+- formatos suportados para reprodução: mp4,m4v,3gp,3g2,wmv,asf,avi,flv,mkv,webm
+- resolução de reprodução: uhd 8k (7680 x 4320) | 30fps
+- resolução de gravação: uhd 4k (3840 x 2160) | 60fps
+- formato suportado de streaming: 3gp,mp4, mp3
+
+Imagem:
+- formatos suportados: a-gif,bmp,gif,heif,jpeg,p-jpeg,png,webp,wbmp
+
+Música:
+- reprodução de música
+- formatos suportados: mp3,m4a,3ga,aac,ogg,oga,wav,wma,amr,awb,flac,mid,midi,xmf,mxmf,imy,rtttl,rtx,ota,dff,dsf,ape
+
+Toques:
+- polifônicos
+- mp3
+
+Gps:
+- gps
+- a-gps
+
+Memória:
+- interna total compartilhada: 128gb
+- suporte a cartão de memória
+- tipo cartão de memória suportado: micro sd
+- capacidade do cartão de memória: até 512 gb
+- memória ram: 6 gb
+
+Memória interna compartilhada com o sistema operacional e aplicativos pré embarcados.
+
+Bateria:
+- capacidade da bateria: 3100 mah
+- tipo de bateria: ions de lítio
+- voltagem: bivolt
+- carregamento rápido
+- carregamento sem fio: padrões wpc e pma
+
+Conteúdo da embalagem:
+- smartphone samsung
+- capa protetora
+- carregador
+- cabo usb
+- conector de usb
+- fone de ouvido
+- extrator de chip
+- manual do usuário
+
+Garantia
+12 meses de garantia

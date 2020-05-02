@@ -1,0 +1,132 @@
+Características
+Marca
+Positivo
+Linha
+Twist
+Modelo
+Mini
+Dual SIM
+Sim
+Memória interna
+64 GB
+Memória RAM
+512 MB
+IMEI Sim
+ESIM Não
+Nome do sistema operacional Android
+Versão do sistema operacional 8.0 Oreo
+Edição do sistema operacional Go Edition
+Ano de lançamento 2018
+Peso 250 g
+Altura 124.5 mm
+Largura 63.9 mm
+Profundidade 10.3 mm
+Tela tátil Sim
+Tamanho da tela 4 "
+Resolução da tela 480 px x 800 px
+Pixels por polegada 233 ppi
+Tecnologia de tela TFT
+Câmera Sim
+Número de câmeras traseiras 1
+Resolução da câmera traseira principal 5 Mpx
+Resolução de vídeo da câmera traseira 1920 px x 1080 px
+Número de câmeras frontais 1
+Resolução da câmera frontal principal 5 Mpx
+Resolução de vídeo da câmera frontal 640 px x 480 px
+Flash na câmara frontal Sim
+Rede 3G
+Quantidade de ranhuras para cartão SIM 2
+Tamanhos de cartão SIM compatíveis Micro-SIM
+Tipos de cartão de memória microSD
+Capacidade máxima do cartão de memória 64 GB
+Modelo do processador MediaTek MT6580
+Modelo de CPU 4x1.3 GHz Cortex-A7
+Quantidade de núcleos do processador 4
+Velocidade do processador 1.3 GHz
+Modelo de GPU Mali-400 MP1
+Teclado QWERTY físico Não
+Conector USB Sim
+Wi-Fi Sim
+GPS Sim
+Bluetooth Sim
+Mini HDMI Não
+Radio Sim
+Sintonizador de TV Não
+Leitor de impressão digital Não
+Acelerômetro Sim
+Sensor de proximidade Não
+Giroscópio Não
+Resistente a salpicos Não
+Resistente à água Não
+À prova d'água Não
+Tipo de bateria Polímero de lítio
+Capacidade da bateria 1.5 Ah
+Bateria removível Sim
+Descrição
+Smartphone positivo twist mini s431, dual chip, quad core 1.3ghz, 3g, android oreo, 8gb, tela 4, 8mp desbloq - grafite
+características:
+- marca: positivo
+- modelo: twist mini s431
+
+especificações:
+
+chipset:
+- mt6580
+
+processador:
+- quad-core
+- velocidade: 1.3ghz
+
+memória:
+- ram: 512mb
+- armazenamento: 8gb
+
+tela:
+- tipo: lcd
+- tamanho: 4
+- resolução: wvga (800x480)
+
+câmeras:
+- traseira 5mp, led flash
+- frontal 5mp, led flash
+
+sistema:
+- android oreo (go edition)
+- aplicativos google play
+
+sensores:
+- acelerômetro
+
+portas e conexões:
+- conector para micro sd (até 64gb, formatado em androidos)
+- conector para fone de ouvido 3.5mm
+- conector micro usb 2.0 para carregamento e transferência de arquivos
+
+bandas e conectividade:
+- dual sim (micro sim + micro sim)
+- wcdma (3g): 850/2100 mhz / gsm (2g): 850/900/1800/1900 mhz
+- wifi 802.11b/g/n
+- bluetooth 4.0
+- gps, a-gps
+- rádio fm
+
+bateria:
+- lítio - polímero
+- capacidade: 1.500 mah
+
+físico:
+- dimensões: 124.5 x 63.9 x 10.3 mm
+
+conteúdo da embalagem:
+- smartphone positivo
+- bateria
+- carregador usb
+- fone de ouvido
+- película de proteção de tela
+- guia rápido
+
+garantia
+12 meses de garantia
+
+peso
+250 gramas (bruto com embalagem)

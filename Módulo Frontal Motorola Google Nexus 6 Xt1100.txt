@@ -1,5 +1,68 @@
 Características
 Marca
+Samsung
+Linha
+Galaxy
+Modelo
+S10e Duos
+Dual SIM
+Sim
+Memória interna
+128 GB
+Memória RAM
+6 GB
+IMEI Sim
+ESIM Não
+Nome do sistema operacional Android
+Versão do sistema operacional 9.0 Pie
+Camada do sistema operacional do fabricante One UI
+Peso 150 g
+Altura 142.2 mm
+Largura 69.9 mm
+Profundidade 7.9 mm
+Tela tátil Sim
+Tamanho da tela 5.8 "
+Resolução da tela 1080 px x 2280 px
+Pixels por polegada 435 ppi
+Tecnologia de tela Dynamic AMOLED
+Câmera Sim
+Número de câmeras traseiras 2
+Resolução da câmera traseira principal 16 Mpx
+Resolução das câmeras traseiras 16 Mpx/12 Mpx
+Resolução de vídeo da câmera traseira 3840 px x 2160 px
+Abertura do diafragma da câmera traseira f 2.2/f 1.5
+Resolução da câmera frontal principal 10 Mpx
+Resolução de vídeo da câmera frontal 3840 px x 2160 px
+Abertura do diafragma da câmera frontal f 1.9
+Flash na câmara frontal Sim
+Função de câmara lenta Sim
+Zoom digital 8x
+Rede 4G/LTE
+Quantidade de ranhuras para cartão SIM 2
+Tamanhos de cartão SIM compatíveis Nano-SIM
+Tipos de cartão de memória SD
+Capacidade máxima do cartão de memória 512 GB
+Quantidade de núcleos do processador 8
+Velocidade do processador 1.8 GHz
+Teclado QWERTY físico Não
+Conector USB Sim
+Wi-Fi Sim
+GPS Sim
+Bluetooth Sim
+Mini HDMI Não
+Radio Sim
+Sintonizador de TV Não
+Leitor de impressão digital Sim
+Acelerômetro Sim
+Sensor de proximidade Sim
+Giroscópio Sim
+À prova d'água Sim
+Tipo de bateria Íon de lítio
+Capacidade da bateria 3100 mAh
+Bateria removível Não
+
+Características
+Marca
 Importado
 Linha
 Nexus
