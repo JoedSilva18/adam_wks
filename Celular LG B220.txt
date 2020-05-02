@@ -1,0 +1,48 @@
+IMEI Sim
+ESIM Não
+Ano de lançamento 2014
+Peso 66 g
+Altura 108 mm
+Largura 45 mm
+Profundidade 14.1 mm
+Tela tátil Não
+Tamanho da tela 1.45 "
+Resolução da tela 128 px x 128 px
+Pixels por polegada 125 ppi
+Tecnologia de tela TFT
+Câmera Não
+Rede 2G
+Quantidade de ranhuras para cartão SIM 2
+Tamanhos de cartão SIM compatíveis Mini-SIM
+Teclado QWERTY físico Não
+Conector USB Não
+Wi-Fi Não
+GPS Não
+Bluetooth Não
+Mini HDMI Não
+Radio Sim
+Sintonizador de TV Não
+Leitor de impressão digital Não
+Reconhecimento facial Não
+Acelerômetro Não
+Sensor de proximidade Não
+Giroscópio Não
+Resistente a salpicos Não
+À prova d'água Não
+Tipo de bateria Íon de lítio
+Capacidade da bateria 950 mAh
+Bateria removível Sim
+Autonomia em standby 950 h
+Autonomia conversação 9 h
+
+Descrição
+Marca: LG
+Modelo: B220
+Cor: Preto
+SIM Card: Dual SIM
+Conexões: Entrada padrão para fone de ouvido de 3.5mm
+Rádio FM: Sim
+Lanterna: Sim
+Display: 1,45''
+Frequência GSM: 850/900/1800/1900
+

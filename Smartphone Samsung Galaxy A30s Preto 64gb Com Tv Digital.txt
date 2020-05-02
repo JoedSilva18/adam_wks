@@ -1,0 +1,139 @@
+Características
+Marca
+Samsung
+Linha
+Galaxy
+Modelo
+A30s
+Dual SIM
+Não
+Cor
+Preto
+Memória interna
+64 GB
+Memória RAM
+4 GB
+IMEI Sim
+ESIM Não
+Nome do sistema operacional Android
+Versão do sistema operacional 9.0 Pie
+Camada do sistema operacional do fabricante One UI
+Ano de lançamento 2019
+Peso 169 g
+Altura 158.5 mm
+Largura 74.7 mm
+Profundidade 7.8 mm
+Tela tátil Sim
+Tamanho da tela 6.4 polegadas
+Resolução da tela 720 px x 1560 px
+Pixels por polegada 268 ppi
+Tecnologia de tela Super AMOLED
+Câmera Sim
+Número de câmeras traseiras 3
+Resolução da câmera traseira principal 16 Mpx
+Resolução das câmeras traseiras 25 Mpx/8 Mpx/5 Mpx
+Resolução de vídeo da câmera traseira 1920 px x 1080 px
+Abertura do diafragma da câmera traseira f2.0
+Número de câmeras frontais 1
+Resolução da câmera frontal principal 16 Mpx
+Resolução de vídeo da câmera frontal 1920 px x 1080 px
+Abertura do diafragma da câmera frontal f 2.0
+Flash na câmara frontal Sim
+Função de câmara lenta Sim
+Zoom digital 4x
+Rede 4G/LTE
+Quantidade de ranhuras para cartão SIM 1
+Tamanhos de cartão SIM compatíveis Nano-SIM
+Tipos de cartão de memória microSD
+Capacidade máxima do cartão de memória 512 GB
+Modelo do processador Exynos 7904
+Modelo de CPU 2x1.8 GHz Cortex-A73/6x1.6 GHz Cortex-A53
+Quantidade de núcleos do processador 8
+Velocidade do processador 1.8 GHz
+Modelo de GPU Mali-G71 MP2
+Teclado QWERTY físico Não
+Conector USB Sim
+Wi-Fi Sim
+GPS Sim
+Bluetooth Sim
+Mini HDMI Não
+Radio Sim
+Sintonizador de TV Sim
+Leitor de impressão digital Sim
+Acelerômetro Sim
+Sensor de proximidade Sim
+Giroscópio Sim
+Resistente a salpicos Não
+Resistente à água Não
+À prova d'água Não
+Tipo de bateria Polímero de lítio
+Capacidade da bateria 4000 mAh
+Bateria removível Não
+Autonomia conversação 32 h
+Descrição
+O Galaxy A30s é a combinação perfeita entre performance e design. Com um avançado processador octa-core e seus 4GB de memória RAM ele oferece ótimo desempenho, executando várias tarefas ao mesmo tempo sem engasgos. E para que você possa aproveitar ao máximo do aparelho sem precisar recarregá-lo a todo momento, ele conta com uma bateria de 4.000mah. E na correria do dia a dia seu recurso de carregamento rápido de 15W é fundamental, em poucos minutos você poderá voltar a usar o Galaxy A30s e continuar a fazer o que mais gosta.
+ 
+O sensor de leitura de impressão digital sai da traseira e vai para debaixo da tela do aparelho, tornando o celular mais moderno e interessante, além, lógico, da segurança e praticidade que oferece. Aliás, o design do Galaxy A30s é muito atraente e ergonômico, com curvas suaves e confortáveis, ele se encaixa perfeitamente em sua mão e facilita a navegação pela tela.
+ 
+Assista a tudo de forma muito mais envolvente em seu Display Infinito. A tela medindo 6,4 polegadas e com tecnologia Super AMOLED FHD+, proporciona uma visualização de imagens com cores vibrantes, alto brilho e maior contraste.
+ 
+Sobre as câmeras o Galaxy A30s traz na traseira um sensor de foco automático de 25MP (abertura de luz F/1.7) , uma de 8MP com ângulo de 123°, e uma lente dedicada a fotos em profundidade, com 5 MP. Na câmera frontal, uma única lente de enormes 16MP. Sem dúvida que com este conjunto de câmeras a vida de quem gosta de tirar fotos com o celular ficará muito mais versátil.
+ 
+CARACTERÍSTICAS
+Tipo: Barra
+Som: Rádio FM
+MP3 Player
+Grava vídeo: Sim
+Slot para cartão: MicroSD até 512GB
+Cartão incluso: Não
+Rádio FM: Sim
+MP3 player: Sim
+Bluetooth: Sim
+Bluetooth Estéreo (ouça suas músicas em um dispositivo Bluetooth): Não
+Wi-fi: Sim
+Visualizador de arquivos: Sim
+Suporte a GPS: Sim
+Mensagens: SMS MMS E-mail
+Toques: Polifônicos MP3 
+Sistema Operacional: Android 9.0 (Pie)
+Processador: Octa-Core de 1.8ghz
+RAM: 4GB
+Tecnologia: 4G GSM 3G
+Memória interna 64GB Total sendo uma parte usada para o sistema operacional e aplicativos pré-instalados
+Cor: Preto
+Sintonizador de TV Digital
+ 
+Características Gerais
+- Câmera Tripla Traseira de 25MP+5MP+8MP Ultra Wide de 123°
+- Selfie de 16MP com Flash Frontal na tela
+- Tela infinita de 6.4 com Leito de Digital na Tela
+- Bateria de 4.000mah com Carregamento Rápido de 15W
+- Memória Interna de 64GB e 4GB RAM
+- TV Digital HD
+- Pasta Segura, Dual Messenger, WiFi Inteligente
+- Sensores: Acelerômetro, Giroscópio, Geomagnético, Proximidade, Luminosidade, Sensor Hall
+ 
+ESPECIFICAÇÕES TÉCNICAS
+Conectividadeusb Type C 2.0 , Bluetooth 5.0, WI-FI 802.11 a/b/g/n/ac 2.4g+5ghz
+Frequências3g 850/900/1900/2100 MHz
+GSM 850/900/1800/1900 MHz
+Quadriband GSM: Sim
+Resolução do visor/display (pixels): 720 x 1560 (HD+)
+Tamanho do visor (cm): 16,2
+Tipo do ChipNano SIM
+Bateria removível: Não
+Bateria (mAh): 4000
+Câmera: Câmera Frontal
+Câmera Traseira Tripla
+Resolução câmera frontal: 16MP (F2.0)
+Resolução câmera traseira tripla: 25MP (F1.7) + 5MP (F2.2) + 8MP (F2.2) Ultra Wide 123°
+Tensão/voltagem: Bivolt
+Garantia: 12 meses
+ 
+Conteúdo da Embalagem
+- Aparelho Smartphone Samsung Galaxy A30s (SM-A307GT/6DL)
+- Carregador
+- Cabo USB
+- Fone de ouvido
+- Extrator de Chip
+- Manual do usuário

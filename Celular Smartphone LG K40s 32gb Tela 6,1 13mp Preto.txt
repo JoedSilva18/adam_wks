@@ -1,0 +1,156 @@
+Características
+Marca
+LG
+Linha
+K Series
+Modelo
+K40S Dual SIM
+Dual SIM
+Sim
+Cor
+Preto
+Memória interna
+32 GB
+Memória RAM
+3 GB
+IMEI Sim
+Operadora Desbloqueado
+ESIM Não
+Nome do sistema operacional Android
+Versão do sistema operacional 9.0 Pie
+Ano de lançamento 2019
+Peso 169 g
+Altura 15.63 cm
+Largura 7.36 cm
+Profundidade 8.6 mm
+Tela tátil Sim
+Tamanho da tela 6.1 polegadas
+Resolução da tela 720 px x 1560 px
+Pixels por polegada 281 ppi
+Brilho máximo 400 cd/m²
+Câmera Sim
+Número de câmeras traseiras 2
+Resolução da câmera traseira principal 13 Mpx
+Resolução das câmeras traseiras 13 Mpx/5 Mpx
+Resolução de vídeo da câmera traseira 1920 px x 1080 px
+Abertura do diafragma da câmera traseira f 2.0/f 2.2
+Número de câmeras frontais 1
+Resolução da câmera frontal principal 13 Mpx
+Resolução de vídeo da câmera frontal 1920 px x 1080 px
+Abertura do diafragma da câmera frontal f 2.0
+Flash na câmara frontal Não
+Zoom digital 8x
+Rede 4G/LTE
+Quantidade de ranhuras para cartão SIM 2
+Tamanhos de cartão SIM compatíveis Nano-SIM
+Tipos de cartão de memória microSD
+Capacidade máxima do cartão de memória 2 TB
+Modelo do processador MediaTek MT6762 Helio P22
+Modelo de CPU 8x2 GHz Cortex-A53
+Quantidade de núcleos do processador 8
+Velocidade do processador 2 GHz
+Modelo de GPU PowerVR GE8320
+Teclado QWERTY físico Não
+Conector USB Sim
+Wi-Fi Sim
+GPS Sim
+Bluetooth Sim
+Mini HDMI Não
+Radio Sim
+Sintonizador de TV Não
+Leitor de impressão digital Sim
+Acelerômetro Sim
+Sensor de proximidade Sim
+Giroscópio Não
+Resistente a salpicos Não
+Resistente à água Não
+À prova d'água Não
+Tipo de bateria Íon de lítio
+Capacidade da bateria 3500 mAh
+Bateria removível Não
+Autonomia em standby 432 h
+Autonomia conversação 16 h
+Descrição
+Celular Smartphone LG K40S 32GB Tela 6,1 13MP Preto
+
+O smartphone LG K40s foi desenvolvido para facilitar o seu dia a dia e te acompanhar em todas as horas, e vem com um espetacular conjunto de câmeras para você não perder nenhum momento. Sua surpreendente tela HD+ 19:5:9 FullVision de 6,1 polegadas oferece mais espaço para mensagens de texto, navegação e visão mais ampla durante os jogos. Um pequeno entalhe em formato de gota d’água abriga a câmera frontal, o que confere maior aproveitamento do espaço da tela.
+
+O LG K40s vem com câmera dupla na traseira, 13 MP + 5 MP, para você tirar fotos perfeitas. E para as selfies, uma câmera de 13MP registra seus cliques e captura toda a sua beleza com detalhes extraordinários. O bacana é que tanto as lentes traseiras quanto as de selfie oferecem o recurso de modo retrato.
+
+Além disso, o LG K40s conta com sensor de impressão digital, botão do Google Assistente na lateral, sistema operacional Android 9 Pie e sistema de som de cinema DTS:X, que melhora a experiência sonora do usuário.
+
+CARACTERÍSTICAS:
+Tipo Barra
+Som Rádio FM
+MP3 Player
+Grava vídeo Sim
+Slot para cartão MicroSD até 2TB
+Cartão incluso Não
+Rádio FM Sim
+MP3 player Sim
+Bluetooth Sim
+Bluetooth Estéreo (ouça suas músicas em um dispositivo Bluetooth)Não
+Wi-Fi Sim
+Visualizador de arquivos Sim
+Suporte a GPS Sim
+Mensagens SMS
+MMS
+E-mail
+Sistema Operacional Android 9.0 (Pie)
+Processador Media Tek MT6762 Octa Core de 2.0GHz
+RAM 3GB
+Tecnologia GSM
+3G
+4G
+Memória interna 32GB Total sendo uma parte usada para o sistema operacional e aplicativos pré-instalados
+Cor Preto
+
+Características Gerais:
+- Tela FullVision de 6,1"
+- Câmera frontal de 13MP
+- Câmera traseira PDAF de 13MP
+- Modo retrato
+- AI CAM
+- DTS: X som surround 3D
+- Leitor biométrico
+- Sensores: Acelerômetro, Proximidade, Luz
+
+ESPECIFICAÇÕES TÉCNICAS:
+Conectividade USB, Bluetooth 5,0, Wi-fi 802.11 a/b/g/n/ac
+Frequências GSM 850/900/1800/1900 MHz
+3G 850/900/1900/2100 MHz
+Quadriband GSM Sim
+Resolução do visor/display (pixels)720x1520 (HD+)
+Tamanho do visor (cm)15,4
+Tipo do Chip Nano SIM
+Bateria removívelNão
+Bateria (mAh)3,500
+Câmera Câmera Traseira Dupla
+Câmera Frontal Dupla
+Resolução câmera traseira dupla 13MP (f2.0) + 5MP (f2.2) com flash Led
+Resolução câmera frontal 13MP (f2.0) sem flash
+
+Observações:
+1.Este é um aparelho desbloqueado e está habilitado para que funcione com operadoras nacionais (Claro, Oi, TIM, Vivo, Nextel, Porto Seguro Conecta, Sercomtel Celular, Algar Celular), com Tecnologias GSM, 3G e 4G (LTE). Para utilizar este celular é preciso ter um chip (vendido separadamente).
+2.Este é um celular Dual Chip, ou seja, funciona com dois chips (Nano SIM) no mesmo aparelho. Cartão MicroSD não acompanha.
+3.O desempenho da bateria pode variar dependendo de diversos fatores como: configuração do celular, da rede, potência do sinal e temperatura de operação.
+4. A capacidade de memória interna disponível ao usuário é menor que a capacidade especificada (32GB), devido ao sistema operacional e às aplicações padrões que já vem instaladas no aparelho, ocupando parte da memória. A capacidade disponível pode variar ao atualizar o aparelho.
+
+ATENÇÃO: A rede 4G no Brasil é limitada. Consulte uma operadora de telefonia móvel para obter informações de pacotes de dados e cidades de cobertura.
+Tensão/Voltagem bivolt
+Garantia 12 meses
+
+Conteúdo da Embalagem:
+- Aparelho Smartphone LG K40S (LMX430BMW)
+- Adaptador de viagem
+- Cabo de dados
+- Fone de ouvido
+- Manual do usuário
+- Pino para ejeção da bandeja do SIM card.
+
+DIMENSÕES:
+Smartphone LG K40S Preto 32GB, Tela 6,1" Narrow Notch HD+ FullVision, Inteligência Artificial, Câmera Dupla, Selfie de 13MP e Processador Octa-Core
+Altura 15,63 Centímetros
+Largura 7,36 Centímetros
+Profundidade 8,60 Milímetros
+Peso 169,00 Gramas
